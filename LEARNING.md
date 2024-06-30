@@ -27,11 +27,16 @@
 8.haddings, paragraphs, line breaks,  horizontal rule
 9. Semantic HTML vs Non-semantic HTML
     - **header, footer, main, table, form*
-10. Text- formatting
-11.List
-12.Link
+10.Text- formatting
+------- img
+11. List (Unorder list, order list, definition list)
+12. Link and Navigation
+    -absolute link vs Relation link
+    //*a tag, attributes: href, target, title*
+
 13.TAble
 14.Form
+16. entity   (unicode-table.com)
 15.deploy
 
 
