@@ -21,7 +21,19 @@
     - tags? Type of tags
     - attribute
     - element, content
-    - Debugging
+    -comment ()
+    - **Debugging*
+            *HTML validator*(google serach) important
+8.haddings, paragraphs, line breaks,  horizontal rule
+9. Semantic HTML vs Non-semantic HTML
+    - **header, footer, main, table, form*
+10. Text- formatting
+11.List
+12.Link
+13.TAble
+14.Form
+15.deploy
+
 
 
 
